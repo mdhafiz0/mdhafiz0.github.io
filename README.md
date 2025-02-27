@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Page title</title>
+    <title>Mobile Cafe</title>
 </head>
 <body>
   <b>  1 Samsung Galaxy A33 5G</b> <br>
